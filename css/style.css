@@ -25,5 +25,5 @@ body {
 h1 {
 	font-family: 'Baskerville', serif;
 	font-size: 5em;
-	border-bottom: underline;
+	border-bottom: 1px solid;
 }
