@@ -27,5 +27,8 @@ h1 {
 	font-size: 5em;
 	border-bottom: 1px solid;
 	color: rgb(156, 172, 167);
-	padding-bottom: 10px;
+}
+
+img {
+	border: 5px;
 }
