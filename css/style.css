@@ -2,7 +2,7 @@
 
 /* link the web font used for the level 1 heading here */
 @font-face {
-	font-family: 'header-font';
+	font-family: header-font;
 	src: url('./fonts/Baskerville.ttc');
 }
 /*////////// Global Styles //////////*/
@@ -23,5 +23,5 @@ body {
 /* Write all remaining styles here */
 
 h1 {
-	font-family: 'header-font';
+	font-family: header-font;
 }
